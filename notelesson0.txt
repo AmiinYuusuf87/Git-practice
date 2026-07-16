@@ -38,3 +38,5 @@ Lightweight Branching: Lets you experiment on separate lines of work safely.
 Resilient: Zero single-point-of-failure risks.
 
 Git was created in 2005 by Linus Torvalds to manage the Linux kernel.
+
+Today, Git is the global industry standard because it is fast, free, and robust.
