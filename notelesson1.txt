@@ -1,1 +1,2 @@
 Git is the local software tool that tracks your code history offline.
+GitHub is a cloud-based platform where you host and share Git repositories.
