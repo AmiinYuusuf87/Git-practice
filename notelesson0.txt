@@ -5,3 +5,8 @@ like project_final_v2_REALLY_final.txt.
 The Pain: No reliable history, 
 high risk of overwriting teammate's work, 
 zero accountability ("who changed what"), and extreme fear of breaking code.
+
+What is a Version Control System (VCS)?
+Definition: A smart, automatic time machine 
+and undo button for your entire project that records changes over time, 
+enabling seamless teamwork.
