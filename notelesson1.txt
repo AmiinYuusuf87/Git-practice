@@ -1,4 +1,9 @@
 Git is the local software tool that tracks your code history offline.
+
 GitHub is a cloud-based platform where you host and share Git repositories.
+
 Git is like a camera taking snapshots; GitHub is like Instagram sharing them.
+
 You can use Git entirely on your own computer without ever touching GitHub.
+
+Teams use GitHub to collaborate, review code, and backup their local work online.
