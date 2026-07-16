@@ -7,3 +7,5 @@ Git is like a camera taking snapshots; GitHub is like Instagram sharing them.
 You can use Git entirely on your own computer without ever touching GitHub.
 
 Teams use GitHub to collaborate, review code, and backup their local work online.
+
+Alternatives to GitHub include other cloud hosting platforms like GitLab and Bitbucket.
