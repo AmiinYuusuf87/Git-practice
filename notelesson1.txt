@@ -17,3 +17,5 @@ You track your code changes using Git, then upload them to GitHub.
 To check if Git is installed on your machine, run the command git --version.
 
 If Git is not installed, download the installer from the official git-scm.com website.
+
+On macOS, you can easily install Git using the Homebrew command brew install git.
