@@ -21,3 +21,5 @@ If Git is not installed, download the installer from the official git-scm.com we
 On macOS, you can easily install Git using the Homebrew command brew install git.
 
 On Linux Debian/Ubuntu systems, install Git by running sudo apt install git.
+
+You must configure your Git identity once before saving any local changes.
