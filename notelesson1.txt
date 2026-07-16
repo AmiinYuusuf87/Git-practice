@@ -15,3 +15,5 @@ Never say "I uploaded my code to Git" because Git is just the tool.
 You track your code changes using Git, then upload them to GitHub.
 
 To check if Git is installed on your machine, run the command git --version.
+
+If Git is not installed, download the installer from the official git-scm.com website.
