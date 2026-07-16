@@ -25,3 +25,5 @@ On Linux Debian/Ubuntu systems, install Git by running sudo apt install git.
 You must configure your Git identity once before saving any local changes.
 
 Run git config --global user.name "Your Name" to set your username.
+
+Run git config --global user.email "you@example.com" to set your email.
