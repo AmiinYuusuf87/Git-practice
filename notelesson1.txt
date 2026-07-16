@@ -23,3 +23,5 @@ On macOS, you can easily install Git using the Homebrew command brew install git
 On Linux Debian/Ubuntu systems, install Git by running sudo apt install git.
 
 You must configure your Git identity once before saving any local changes.
+
+Run git config --global user.name "Your Name" to set your username.
