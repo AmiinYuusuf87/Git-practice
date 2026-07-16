@@ -1,0 +1,7 @@
+The Problem (Life Before VCS)
+The Mess: Managing folders with confusing copies 
+like project_final_v2_REALLY_final.txt.
+
+The Pain: No reliable history, 
+high risk of overwriting teammate's work, 
+zero accountability ("who changed what"), and extreme fear of breaking code.
