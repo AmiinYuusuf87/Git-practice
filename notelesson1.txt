@@ -1,0 +1,1 @@
+Git is the local software tool that tracks your code history offline.
