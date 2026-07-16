@@ -10,3 +10,20 @@ What is a Version Control System (VCS)?
 Definition: A smart, automatic time machine 
 and undo button for your entire project that records changes over time, 
 enabling seamless teamwork.
+
+
+Centralized vs. Distributed VCS
+Centralized (e.g., SVN):
+
+History lives only on one central server.
+
+The Catch: If the server goes down or dies, 
+you cannot save work, view history, 
+and your data can be lost forever. Requires internet.
+
+Distributed (e.g., Git):
+
+Every single developer has a full copy of the entire history on their computer.
+
+The Win: Works 100% offline, incredibly fast, and if the main server dies, 
+any developer's PC can restore the entire project history.
