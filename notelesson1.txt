@@ -31,3 +31,5 @@ Run git config --global user.email "you@example.com" to set your email.
 The --global flag ensures this identity applies to all projects on your PC.
 
 Always use the same email for local Git configuration and your GitHub account.
+
+Run the command git config --list to verify your saved identity settings.
