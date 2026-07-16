@@ -27,3 +27,12 @@ Every single developer has a full copy of the entire history on their computer.
 
 The Win: Works 100% offline, incredibly fast, and if the main server dies, 
 any developer's PC can restore the entire project history.
+
+Why Git Won the Tech World
+Created in 2005 by Linus Torvalds (the genius behind Linux) to handle massive codebases.
+
+Distributed & Fast: Everything runs locally on your PC.
+
+Lightweight Branching: Lets you experiment on separate lines of work safely.
+
+Resilient: Zero single-point-of-failure risks.
