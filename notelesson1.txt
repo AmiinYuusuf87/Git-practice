@@ -13,3 +13,5 @@ Alternatives to GitHub include other cloud hosting platforms like GitLab and Bit
 Never say "I uploaded my code to Git" because Git is just the tool.
 
 You track your code changes using Git, then upload them to GitHub.
+
+To check if Git is installed on your machine, run the command git --version.
