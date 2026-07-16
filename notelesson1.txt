@@ -11,3 +11,5 @@ Teams use GitHub to collaborate, review code, and backup their local work online
 Alternatives to GitHub include other cloud hosting platforms like GitLab and Bitbucket.
 
 Never say "I uploaded my code to Git" because Git is just the tool.
+
+You track your code changes using Git, then upload them to GitHub.
