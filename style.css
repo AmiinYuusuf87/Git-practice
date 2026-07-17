@@ -7,3 +7,5 @@ body {
   background-color: #d0d0e7;
   color: #333;
 }
+
+.container { width: 80%; }
