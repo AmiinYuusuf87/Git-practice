@@ -39,3 +39,5 @@ h1 { color: #2c3e50; }
 #btn { background-color: #3498db; }
 
 #btn { color: white; border: none; }
+
+#btn { padding: 10px 20px; }
