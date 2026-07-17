@@ -9,3 +9,5 @@ Git organizes your project workflow into three distinct, highly functional areas
 The Working Directory is where you edit and manage your actual local files.
 
 The Staging Area is a temporary waiting room or shopping cart for changes.
+
+The Repository is the permanent vault where saved commits are stored forever.
