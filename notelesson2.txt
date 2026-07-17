@@ -1,3 +1,5 @@
 A repository (repo) is simply a project folder that Git tracks and monitors.
 
 Git stores the entire project history inside a hidden folder named .git.
+
+Never delete or edit the .git folder, or you will lose your history.
