@@ -5,3 +5,5 @@ Git stores the entire project history inside a hidden folder named .git.
 Never delete or edit the .git folder, or you will lose your history.
 
 Git organizes your project workflow into three distinct, highly functional areas.
+
+The Working Directory is where you edit and manage your actual local files.
