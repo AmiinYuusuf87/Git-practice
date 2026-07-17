@@ -13,3 +13,5 @@ The Staging Area is a temporary waiting room or shopping cart for changes.
 The Repository is the permanent vault where saved commits are stored forever.
 
 You run git add to move chosen changes from Working Directory to Staging.
+
+You run git commit to permanently save staged changes to the Repository.
