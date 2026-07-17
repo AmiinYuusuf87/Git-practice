@@ -1,0 +1,2 @@
+A repository (repo) is simply a project folder that Git tracks and monitors.
+
