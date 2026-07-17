@@ -23,3 +23,5 @@ Every commit has a unique ID, an author, a timestamp, and a message.
 Always write clear, present-tense commit messages describing what actually changed.
 
 Run git init once to turn any local folder into a Git repository.
+
+Run git status frequently to see which files are modified, staged, or untracked.
