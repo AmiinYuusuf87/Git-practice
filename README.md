@@ -9,4 +9,4 @@ This repository serves as a practical tracking tool for a foundational 3-lesson 
  **Lesson 2 (Core Workflow & Architecture):** Explains Git's three functional internal environments (Working Directory, Staging Area, and Local Repository) alongside hands-on execution of basic terminal commands.
 
 ## Technical Practice
-* **Command Competency:** Development of operational hands-on speed and muscle memory using `git init`, `git status`, `git add`, and `git commit`.
+***Command Competency:** Development of operational hands-on speed and muscle memory using `git init`, `git status`, `git add`, and `git commit`.
