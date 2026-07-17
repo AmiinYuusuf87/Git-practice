@@ -19,3 +19,5 @@ You run git commit to permanently save staged changes to the Repository.
 A commit is a permanent, unique snapshot of your project at that moment.
 
 Every commit has a unique ID, an author, a timestamp, and a message.
+
+Always write clear, present-tense commit messages describing what actually changed.
