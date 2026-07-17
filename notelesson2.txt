@@ -31,3 +31,6 @@ Run git diff to see line-by-line changes in your files before staging them.
 Run git add <file> or git add . to stage your local modifications.
 
 Run git commit -m "message" to save your staged changes as a snapshot.
+
+Run git log --oneline to view your clean, numbered history of commits.
+
