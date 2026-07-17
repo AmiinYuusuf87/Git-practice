@@ -29,3 +29,5 @@ Run git status frequently to see which files are modified, staged, or untracked.
 Run git diff to see line-by-line changes in your files before staging them.
 
 Run git add <file> or git add . to stage your local modifications.
+
+Run git commit -m "message" to save your staged changes as a snapshot.
